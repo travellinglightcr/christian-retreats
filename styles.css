@@ -5,6 +5,7 @@ html {
 
 body {
   margin: 0;
+  background-color: rgba(239, 246, 232, 0.6);;
 }
 
 * {
@@ -24,10 +25,11 @@ main > section {
   flex-wrap: wrap;
   justify-content: center;
   padding-inline: 1rem;
+  /* background-color: rgba(103, 167, 31, 0.2); */
 }
 
 section > section {
-  background-color: rgba(103, 167, 31, 0.1);
+  background-color: #eff6e8;
   border: 5px solid rgba(0, 128, 0, 0.8);
   border-radius: 20px;
   max-inline-size: 900px;
